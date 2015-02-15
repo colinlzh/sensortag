@@ -1,0 +1,14 @@
+D:\smms\android\MySensorTag\app\build\intermediates\classes\debug
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8195141782b93b1b50daff52b7081ea0fc312999.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\GraphView-3.1.3-ccd3890555f491e654f97de2ae7ccc66d1722cfe.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\commons-logging-1.2-dbb4292c88feb869751b6d95f6efb2d09ed59bd4.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\classes-3019dd9da0df1030984670cea2fc01e17fa7e3b0.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-016c07a83bf8009b4de9e54caa256b91b65b463d.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\gson-2.3-015eaeeab68d1b841956dca70eb4001c5e7a2c4c.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\junit-4.10-0fb6dcf3998a4575fc31aa0674a0af356352f0a9.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\httpcore-4.3.2-95fb65d34e1053b92f52905a5480277e73348d9c.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\xcl-charts-2495c41ef7af52eafe4be768b3f48d5d1acf4933.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\classes-02dd59a5c1b27f6887c90f872c65bebc2b77a87c.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\httpclient-4.3.5-8358e6b372280b59c722c4951866e9577f921732.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\classes-45af3cf3b02cb78a43a3b05b92413b6f4d593e29.jar
+D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-861977f846cf7a73e73d41ff73410f85d47b78e1.jar

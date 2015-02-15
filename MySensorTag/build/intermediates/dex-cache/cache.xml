@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\smms\android\MySensorTag\app\libs\junit-4.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e4f1766ce7404a08f45d859fb9c226fc9e41a861">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\junit-4.10-0fb6dcf3998a4575fc31aa0674a0af356352f0a9.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\httpcore-4.3.2-95fb65d34e1053b92f52905a5480277e73348d9c.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\libs\httpclient-4.3.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9783d89b8eea20a517a4afc5f979bd2882b54c44">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\httpclient-4.3.5-8358e6b372280b59c722c4951866e9577f921732.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\libs\xcl-charts.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edf8c88abb7593290ef8af287a118b7379996e4e">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\xcl-charts-2495c41ef7af52eafe4be768b3f48d5d1acf4933.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\commons-logging-1.2-dbb4292c88feb869751b6d95f6efb2d09ed59bd4.jar" />
+    </item>
+    <item
+        jar="D:\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8195141782b93b1b50daff52b7081ea0fc312999.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\libs\GraphView-3.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="672e4a5d8906ab21665dcc08c1f7edb6efd6f903">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\GraphView-3.1.3-ccd3890555f491e654f97de2ae7ccc66d1722cfe.jar" />
+    </item>
+    <item
+        jar="C:\Users\colin1434\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\gson-2.3-015eaeeab68d1b841956dca70eb4001c5e7a2c4c.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\classes-45af3cf3b02cb78a43a3b05b92413b6f4d593e29.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\classes-02dd59a5c1b27f6887c90f872c65bebc2b77a87c.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\build\intermediates\exploded-aar\MySensorTag\hellocharts-library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c96ea8c22b68e56c598eb552321670d6953072d">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\classes-3019dd9da0df1030984670cea2fc01e17fa7e3b0.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-016c07a83bf8009b4de9e54caa256b91b65b463d.jar" />
+    </item>
+    <item
+        jar="D:\smms\android\MySensorTag\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="D:\smms\android\MySensorTag\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-861977f846cf7a73e73d41ff73410f85d47b78e1.jar" />
+    </item>
+
+</items>
